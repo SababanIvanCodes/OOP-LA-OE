@@ -1,4 +1,4 @@
-LA#25
+#LA25
 from abc import ABC, abstractmethod
 
 class Character(ABC):
